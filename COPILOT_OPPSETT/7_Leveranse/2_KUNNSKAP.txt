@@ -1,0 +1,34 @@
+# Leveranseformat – anbefalte tiltak
+
+Alle grupper leverer i samme format. Maks én side.
+
+## 1. Problemforståelse (maks 5 linjer)
+Hva er de viktigste utfordringene, og hvorfor? Bruk tall fra materialet der det er mulig.
+
+## 2. Våre viktigste antagelser (maks 3 punkter)
+Hva bygger dere forslaget på, og hvilke opplysninger har dere verifisert hos flere personer?
+
+## 3. Anbefalte tiltak (3–5 stk.)
+
+| # | Tiltak | Begrunnelse (tall + kilde) | Forventet effekt (fra → til, dato) | Ansvarlig | Tidslinje |
+|---|---|---|---|---|---|
+| 1 | | | | | |
+
+Tips:
+- Begrunnelse: Vis koblingen til et konkret tall, for eksempel enhetskostnad, andel ordrer til rett tid, antall nøkkelpersoner uten dokumentert erstatter, eller kundens leveransetall.
+- Forventet effekt: Gi et måltall og en tidshorisont, for eksempel «enhetskostnad fra USD 10,9 til USD 10,2 innen utgangen av 2027». Unngå «bedre» og «mer effektivt».
+
+## 4. Risikoer og oppfølging (maks 3 punkter)
+Hva kan gå galt, og hvordan følger dere opp?
+
+## 5. Hva dere ville gjort annerledes med mer tid (valgfritt, maks 2 punkter)
+
+## Mal for ferdig leveranse
+
+# Leveranse – [Gruppenavn]
+## 1. Problemforståelse
+## 2. Våre viktigste antagelser (verifisert / uverifisert)
+## 3. Anbefalte tiltak (tabell)
+## 4. Risikoer og oppfølging
+## 5. Med mer tid (valgfritt)
+## Sjekkliste (ja/nei): 3–5 tiltak; tall i alle begrunnelser; målbar effekt med tidshorisont; grensene 5/3/3 overholdt; antagelser markert.

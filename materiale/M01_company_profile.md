@@ -1,0 +1,35 @@
+# M01 – Selskapsprofil: Fjordlys Energi ASA
+
+**Tilgjengelig for:** alle agenter
+
+## Nøkkelfakta
+- Stiftet: 1987 (som Fjordlys Petroleum, navnet endret i 2009)
+- Hovedkontor: Stavanger, Verksgata 4
+- Ansatte: ca. 1 400 (ca. 60 % i Stavanger-regionen)
+- Børsnotert på Oslo Børs, med stor hovedeier (Vestlandske Invest AS, 34 %)
+- Operatør: Ormdal (plattform, drift siden 1999) og Skarvbank (subsea-tieback til Ormdal, drift siden 2014)
+- Ikke-operert andel: Lyrafelt (25 %, operatør Nordkraft Petroleum)
+- Produksjon 2025: ca. 58 000 fat oljeekvivalenter per dag (boe/d), hvorav Ormdal ca. 41 000 og Skarvbank ca. 17 000
+- Omsetning 2025: NOK 26,8 mrd
+- EBITDA 2025: NOK 11,4 mrd
+
+## Organisasjon (forenklet)
+- **Administrerende direktør:** Anne Berg-Holm (siden 2021)
+- **Driftsdirektør (COO):** Thomas Lie (ansvar for drift og plattformer, rapporterer til Anne)
+- **Finansdirektør (CFO):** Bjørn Haugland
+- **Driftsleder Ormdal:** Jan Ødegaard (ansatt siden 1999, senior fagspesialist innen prosess- og kontrollsystemer, også ansvarlig for overgangsplanen for vedlikehold)
+- **Digitalisering og data:** Maria Solheim (leder siden for 1,5 år siden, tidligere fra et teknologiselskap i Oslo)
+- **HR:** Synnøve Årdal
+- **Hovedtillitsvalgt:** Kari Tveit (hovedtillitsvalgt, Industri Energi/Fellesforbundet, nestleder i samarbeidsutvalget)
+- **Prosjektledelse/stabsfunksjon:** Per Hetland (prosjektleder i stabsfunksjonen «Forretningsutvikling», i selskapet i 14 år)
+
+## Viktige kunder
+- **Nordhav Gass AS** – største enkeltkunde for gass fra Ormdal, ca. 35 % av gassvolumet. Se M07.
+- **Svalbard Kraft** – kontrakt om kraftleveranser til land
+- **Vestkyst Gass** – mindre volum, kortere kontrakt
+
+## Kultur
+- Stolt av sikkerhetsrekorden (ingen fraværsskader med varig men i 2025, og ingen hendelser i klasse A siden 2019).
+- Flat organisasjon i driftsmiljøet, men tung og tradisjonell i støttefunksjonene.
+- Erfaren driftsstab. Mange har lang fartstid, og flere husker tidligere endringsprosjekter og har sterke meninger om dem.
+- Ansatte er generelt motiverte for faglig utvikling, men skeptiske til «konsulentrunder».

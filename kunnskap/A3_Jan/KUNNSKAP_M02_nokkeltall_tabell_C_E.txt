@@ -1,0 +1,22 @@
+# M02 – Nøkkeltall: produksjon og kostnad
+
+**Tilgjengelig for:** Maria (alt), Anne (kun tabell A og B), Jan (kun Ormdal, tabell C og E), Styret (alt)
+
+## Tabell C – Ormdal: driftskostnad fordelt (2025, NOK mill.)
+
+| Kostnadsområde | Beløp | Andel |
+|---|---:|---:|
+| Vedlikehold (inkl. innleie) | 2 610 | 28 % |
+| Innleid personell (drift) | 1 840 | 20 % |
+| Egne ansatte (drift) | 1 520 | 17 % |
+| Logistikk, forsyning og helikopter | 1 120 | 12 % |
+| Støttefunksjoner (fordelt) | 1 060 | 12 % |
+| Energi og utstyr | 680 | 7 % |
+| Annet | 390 | 4 % |
+| **Sum** | **9 220** | **100 %** |
+
+## Tabell E – Produktivitetsindikatorer (driftsenhet Ormdal)
+- Vedlikeholdsordrer lukket i tide: 71 % (mål 85 %)
+- Gjennomsnittlig tid fra ordre til utført arbeid: 11,4 dager (2024: 8,9)
+- Manuelle dokumentasjonsoppgaver per vedlikeholdsordre (snitt): 4,2
+- Andel vedlikeholdsordrer som må utføres på nytt (rework): 9 %

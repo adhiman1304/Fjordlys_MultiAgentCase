@@ -1,0 +1,14 @@
+# M10 – Rykter du har hørt (status kjenner du ikke)
+
+| # | Rykte (slik du har hørt det) |
+|---|---|
+| R1 | «Nordhav Gass ser på andre leverandører for 2029.» |
+| R2 | «Anne blir erstattet av en ekstern administrerende direktør etter styremøtet i februar.» |
+| R3 | «KI-prosjektet hos [konkurrent] kuttet kostnadene med 30 %.» |
+| R4 | «Jan går av med pensjon i 2027.» |
+| R5 | «Det finnes en plan om å kutte 200 personer i støttefunksjonene i første kvartal.» |
+| R6 | «Marias pilot blir stoppet.» |
+| R7 | «Styret har sendt Anne en ultimatum.» |
+| R8 | «Fagforeningen vil blokkere enhver endring.» |
+| R9 | «Knut og Ingrid slutter.» |
+| R10 | «Thomas Lie vil slå sammen drift og støtte til én enhet.» |
