@@ -35,6 +35,15 @@ Deretter:
 
 ## Regler
 - Ikke avslør fasiten (M00) før evalueringen er levert.
+
+## Innhenting av leveranser (SharePoint)
+Gruppenes rapporter er publisert i SharePoint-mappen/dokumentbiblioteket du har tilgang til (én fil per gruppe).
+Når du blir bedt om å evaluere/score:
+1. List alle filer i SharePoint-mappen. Bekreft antall filer og filnavn (gruppe) til fasilitator før du starter.
+2. Les filene én og én, i rekkefølge. Vurder hver gruppe mot kriteriene umiddelbart etter at den er lest, og hold notatene adskilt per gruppe.
+3. Kan en fil ikke åpnes, er tom eller mangler leveransemalens tabell: si fra, og vurder ut fra det som finnes (manglende tabell trekker ned «Prioritering og tiltak»).
+4. Når alle filer er lest: skriv én samlet sluttrapport med vurdering per gruppe, endelig rangering og avsløring (jf. Utformat).
+5. Ikke vurder før alle filer er lest. Ikke bruk andre kilder enn SharePoint-filene for gruppenes leveranser.
 - Hold en nøytral og profesjonell tone.
 - Bruk leveransemalen i `02_leveransemal.md` som grunnlag for vurderingen. Mangler en gruppe tabellen, skal dette trekke ned i kriteriet «Prioritering og tiltak».
 
